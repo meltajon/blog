@@ -1,0 +1,177 @@
+/* ARTICLES
+--------------------------------------------------*/
+.post { margin: 4.096rem 0; }
+.post:first-of-type { margin: 0 0 4.096rem; }
+.post h1,
+.post h2,
+.post h3 { font-family: 'Droid Sans', sans-serif; line-height: 1.2em; }
+
+.post-body h2,
+.post-body h3 { 
+	margin: 1.6em 0 1rem;
+	color: #333; font-size: 1.375rem; font-weight: 400; 
+}
+.post iframe { border: none; }
+.post .post-title { 
+	padding: 0 10px; margin: 0 0 1rem;
+	font-size: 1.6rem; font-weight: 400; 
+	font-family: 'Droid Sans', sans-serif;
+}
+@media (min-width: 620px) {
+	.post .post-title { padding: 0; }
+}
+.post-header .post-title-link:link,
+.post-header .post-title-link:visited { 
+	border: 0; 
+	color: #333;
+}
+.post-header .post-title-link:hover,
+.post-header .post-title-link:active { 
+	color: #CC0001;
+}
+.post-header .post-title-link[rel="external"]:after { content: " →";}
+.post-categories { 
+	padding: 0 10px; margin: .5rem 0;
+	font-family: 'Droid Sans', sans-serif; text-transform: uppercase; 
+}
+@media (min-width: 620px) {
+	.post-categories { padding: 0; }
+}
+.post-categories a:link,
+.post-categories a:visited {
+	border: 0;
+}
+
+.post-thumb-link { margin: 0 0 .5rem; }
+.post-thumb-link:link,
+.post-thumb-link:visited,
+.post-thumb-link:hover { border: 0; }
+.post-thumb { 
+	width: 100%; height: auto; padding: 0; 
+	margin: 0;
+	background: #000; text-align: center; 
+}
+.post-thumb-link:link,
+.post-thumb-link:visited { 
+	display: inline-block; 
+	position: relative; 
+	color: #DDD; 
+}
+.post-thumb-link:hover { color: #FFF; }
+
+.post-thumb-caption { 
+	display: block; 
+	width: 100%; padding: 10px 20px;
+	position: absolute; bottom: 6px;
+	background: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgdmlld0JveD0iMCAwIDEgMSIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSI+CiAgPGxpbmVhckdyYWRpZW50IGlkPSJncmFkLXVjZ2ctZ2VuZXJhdGVkIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeDE9IjAlIiB5MT0iMCUiIHgyPSIwJSIgeTI9IjEwMCUiPgogICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iIzAwMDAwMCIgc3RvcC1vcGFjaXR5PSIwLjY1Ii8+CiAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiMwMDAwMDAiIHN0b3Atb3BhY2l0eT0iMC42NSIvPgogIDwvbGluZWFyR3JhZGllbnQ+CiAgPHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjEiIGhlaWdodD0iMSIgZmlsbD0idXJsKCNncmFkLXVjZ2ctZ2VuZXJhdGVkKSIgLz4KPC9zdmc+);
+	background: -moz-linear-gradient(top,  rgba(0,0,0,0.65) 0%, rgba(0,0,0,0.65) 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(0,0,0,0.65)), color-stop(100%,rgba(0,0,0,0.65))); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top,  rgba(0,0,0,0.65) 0%,rgba(0,0,0,0.65) 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top,  rgba(0,0,0,0.65) 0%,rgba(0,0,0,0.65) 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top,  rgba(0,0,0,0.65) 0%,rgba(0,0,0,0.65) 100%); /* IE10+ */
+	background: linear-gradient(to bottom,  rgba(0,0,0,0.65) 0%,rgba(0,0,0,0.65) 100%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#a6000000', endColorstr='#a6000000',GradientType=0 ); /* IE6-8 */
+	font-family: "Droid Sans", sans-serif; font-size: .9em; font-weight: 100; line-height: 1.3em; text-align: left; vertical-align: bottom;
+}
+
+.post-featured-meta { display: block; }
+
+.post-body .more-button a {
+	display: inline-block;
+	padding: 0 0.625rem; 
+	color: #FFF; font-family: "Droid Sans", sans-serif; font-size: 0.6875rem; font-weight: normal; text-transform: uppercase; 
+	background: #CC0001; border: 0;
+}
+.post-body .more-button a:link,
+.post-body .more-button a:visited { color: #FFF; }
+.post-body .more-button a:after { content:"  ▸"; }
+.post-body .more-button a:hover { background: #FF0000; }
+.post-body .more-button a:visited { color: #FFF; }
+
+
+.post-footer { padding: 0 10px; }
+@media (min-width: 620px) {
+	.post-footer { padding: 0; }
+}
+
+.post-byline { color: #999; font-family: "Droid Sans", sans-serif; font-size: 0.7857142857142857em; }
+
+.post-byline a:link,
+.post-byline a:visited,
+.post-byline a:link,
+.post-byline a:visited { 
+	border: 0; 
+	color: #999;
+}
+
+.post-byline a:hover,
+.post-byline a:active { 
+	color: #CC0001;
+}
+/* ARTICLE FORMATTING
+--------------------------------------------------*/
+.post-body { padding: 0 10px; }
+@media (min-width: 620px) {
+	.post-body { padding: 0; }
+}
+
+.post-body p,
+.post-body li { margin: 1em 0; }
+
+.post blockquote { 
+	padding: 0 0.625rem; margin: 1rem 0;
+	color: #777;
+	border: 4px solid #DDD; border-width: 0 0 0 4px; 
+}
+@media (min-width: 601px) {
+	.post blockquote { color: #AAA; }
+}
+.post ul { padding: 0 0 0 1.5625rem; }
+
+.more-link:link,
+.more-link:visited { font-family: "Droid Sans", Arial, sans-serif; font-size: .8rem; }
+
+/* ARTICLE TYPE - QUOTES
+--------------------------------------------------*/
+.post_quote blockquote {
+	font-family: "Droid Sans", sans-serif; font-size: 1.2rem; 
+	border: 0;
+}
+
+.post_quote .post-body {
+	padding: 1.25rem; margin: 0 0 .5rem; 
+	background: #EFEFEF; 
+}
+
+/* ARTICLE BYLINE
+--------------------------------------------------*/
+.post-permalink:link,
+.post-permalink:visited { color: #555; font-family: "Droid Sans", Arial, sans-serif; border: none; }
+
+/* RELATED
+--------------------------------------------------*/
+#related {
+	padding: 1.25rem 0; margin: 4.096rem 10px; 
+	border: 1px solid #CCC; border-width: 1px 0; 
+}
+@media (min-width: 620px) {
+	#related { margin: 4.096rem 0; }
+}
+#related-title {
+	margin: 0; 
+	font-size: 1rem; text-transform: uppercase;
+}
+.related-list { margin: 1rem 0 0; }
+.related-item { margin: 0.3571428571428571rem 0; }
+.related-item-link:link,
+.related-item-link:visited { border: 0; }
+
+.related-posts { 
+	padding: 0.7142857142857142rem 0; /* margin: 5.357142857142857rem 0; */
+	border: 1px solid #CCC; border-width: 1px 0; 
+}
+.related-posts-title { font-size: 1rem; font-weight: normal; text-transform: uppercase; }
+.related-posts-title-link:link,
+.related-posts-title-link:visited { border: none; }
+.related-posts-link:hover,
+.related-posts-link:active { border: 1px solid #CC0001; border-width: 0 0 1px; }

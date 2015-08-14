@@ -1,0 +1,164 @@
+@charset "UTF-8";
+
+/* MEDIA QUERIES
+------------------------------------------------------------------------------
+------------------------------------------------------------------------------*/
+html { font-size: 14px; line-height: 1.357142857142857em; }
+
+@media (min-width: 571px) {
+	html { font-size: 16px; line-height: 1.6em; }
+}
+@media (min-width: 601px) {
+	.wrapper { max-width: 600px; }
+}
+@media (min-width: 601px) {
+	html { font-size: 18px; line-height: 1.5em; }
+}
+
+/* GLOBALS
+------------------------------------------------------------------------------
+------------------------------------------------------------------------------*/
+html { box-sizing: border-box; }
+*, *:before, *:after { box-sizing: inherit; }
+
+.clearfix:before,
+.clearfix:after {
+	display: table;
+	content: "";
+}
+.clearfix:after { clear: both; }
+
+body {
+	height: 100%; 
+	margin: 0; 
+	color: #555; font-family: "Droid Serif", Arial, sans-serif;
+}
+@media (min-width: 601px) {
+	body { color: #777; }
+}
+.wrapper { width: 100%; margin: 0 auto; }
+@media (min-width: 601px) {
+	.wrapper { max-width: 600px; }
+}
+
+a:link,
+a:visited { 
+	color: #CC0001; text-decoration: none; 
+	border: 1px dotted #AAA; border-width: 0 0 1px 0;
+}
+a:hover { border: 1px solid #CC0001; border-width: 0 0 1px 0; }
+
+ul { list-style-type: square; }
+
+.inline-block,
+.no-wrap { display: inline-block; }
+.hidden { display: none; }
+
+.float-right { float: right; }
+.float-left { float: left; }
+
+.text-align-center { text-align: center; }
+
+/* HEADER
+------------------------------------------------------------------------------
+------------------------------------------------------------------------------*/
+#header { 
+	margin: 0 0 4.096rem 0; 
+	border: 4px solid #CC0000; border-width: 3px 0 0;
+}
+#header-A03 { 
+	padding: 4.096rem 0; margin: 0; 
+	border: 4px solid #CC0000; border-width: 3px 0 0;
+}
+#header-wrapper { position: relative; text-align: center; }
+#header-title { display: inline-block; }
+.search-header { background: #EFEFEF; }
+.title { padding: 0 10px; margin: 0; }
+@media (min-width: 620px) {
+	.title { padding: 0; }
+}
+#logo {
+	display: inline-block; 
+	padding: .390625em 0 0; margin: 0; 
+	font-family: 'Rambla', sans-serif; font-size: 1.6rem; line-height: 1em; text-transform: uppercase; 
+	border: none; 
+}
+#logo span { font-size: 1.2em; }
+#logo:link,
+#logo:visited { color: #555; }
+#logo:hover { color: #CC0001; }
+
+#header-A02 #main-nav { 
+	display: inline-block; 
+	position: absolute; right: 0; bottom: 0;
+}
+#header-A02 .main-nav-item { 
+	padding: 0 0.2777777777777778rem; 
+	font-family: 'Droid Sans', sans-serif; 
+}
+#header-A02 .main-nav-item:link,
+#header-A02 .main-nav-item:visited { 
+	color: #AAA; 
+	border: 0; 
+}
+
+#header-A03 #main-nav { 
+	display: block; 
+	text-align: center; 
+}
+#header-A03 .main-nav-item { 
+	padding: 0 0.2777777777777778rem; 
+	font-family: 'Droid Sans', sans-serif; 
+}
+#header-A03 .main-nav-item:link,
+#header-A03 .main-nav-item:visited { 
+	color: #AAA; 
+	border: 0; 
+}
+
+/* BODY
+------------------------------------------------------------------------------
+------------------------------------------------------------------------------*/
+.main { margin: 0; }
+
+.pagination { margin: 2.56rem 0; padding: 0 10px; }
+@media (min-width: 620px) {
+	.pagination { margin: 2.56rem 0; padding: 0; }
+}
+.pagination-link,
+.pagination-link:link,
+.pagination-link:visited { 
+	display: inline-block; 
+	padding: 0.17857142857142855rem 0.7142857142857142rem;
+	border: 1px solid #DDD; border-width: 1px;
+}
+.pagination-link:hover {
+	border: 1px solid #999;
+}
+.pagination-link_active:link,
+.pagination-link_active:visited {
+	color: #FFF; 
+	background: #CC0001;
+	border: #CC0001;
+}
+
+/* FOOTER
+------------------------------------------------------------------------------
+------------------------------------------------------------------------------*/
+#footer {
+	padding: 1.6rem 0; 
+	color: #7F7F7F; font-family: "Droid Sans", sans-serif; font-size: 0.875rem; text-align: center; 
+	background: #000; 
+}
+#footer a:link,
+#footer a:visited { 
+	color: #EFEFEF; 
+	border: 0; 
+}
+#footer a:hover {
+	border: 1px solid #FFF; border-width: 0 0 1px;
+	color: #FFF; 
+}
+#copyright {
+	font-size: 0.875rem; 
+}

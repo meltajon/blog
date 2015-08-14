@@ -1,0 +1,16 @@
+.home-list { padding: 0; }
+.home-item { color: #CC0001; list-style: square; }
+.section-title { font-family: "Droid Sans", Arial, sans-serif; font-size: 1rem; font-weight: normal; text-transform: uppercase; }
+.post-permalink:link,
+.post-permalink:visited { color: #555; font-family: "Droid Sans", Arial, sans-serif; border: none; }
+.post-byline a:link,
+.post-byline a:visited { 
+	color: #999; font-family: "Droid Sans", Arial, sans-serif; font-size: .8rem; 
+	border: none; 
+}
+.post-byline a:hover { color: #CC0001; }
+.more-button {
+	padding: 0 0.625rem; 
+	color: #CC0001; font-size: 0.6875rem; text-transform: uppercase; 
+}
+.more-button:after { content:"  â–¸"; }

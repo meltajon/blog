@@ -1,0 +1,35 @@
+.related {
+	padding: 1.2777777777777777rem 0; margin: 0.5555555555555556rem 0 4.096rem;
+	border: 1px solid #CCC; border-width: 1px 0;
+}
+@media (max-width: 450px) {
+	.related { margin: 0.5555555555555556rem 10px 4.096rem; }
+	.related-list { padding: 0 0 0 15px; }
+}
+@media (max-width: 620px) {
+	.related { margin: 0.5555555555555556rem 10px 4.096rem; }
+}
+.related-title { 
+	margin: 0;
+	@extend .ideal-caps_500; font-size: 1rem; 
+}
+.related-item-link:hover { color: lighten($orange, .1); }
+
+.related-list { margin: 1rem 0 0; }
+.related-item { 
+	margin: 0.3571428571428571rem 0; 
+	color: #777;
+}
+.related-item-link:link,
+.related-item-link:visited { border: 0; }
+.related-item-type { font-size: .8rem; @extend .whitney_500; text-transform: uppercase; }
+
+.related-posts { 
+	padding: 0.7142857142857142rem 0; /* margin: 5.357142857142857rem 0; */
+	border: 1px solid #CCC; border-width: 1px 0; 
+}
+.related-posts-title { font-size: 1rem; @extend .ideal-sans_500; text-transform: uppercase; }
+.related-posts-title-link:link,
+.related-posts-title-link:visited { border: none; }
+.related-posts-link:hover,
+.related-posts-link:active { border: 1px solid $orange; border-width: 0 0 1px; }

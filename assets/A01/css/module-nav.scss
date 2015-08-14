@@ -1,0 +1,50 @@
+/* CATEGORIES
+--------------------------------------------------*/
+.categories {
+	padding: 2.56rem 10px;
+	background: #F2F2F2;
+}
+@media (min-width: 620px) {
+	.categories { padding: 2.56rem 0; }
+}
+#categories-title {
+	font-family: "Droid Sans", sans-serif; font-weight: 400; 
+}
+
+.nav-title {
+	display: block; 
+	border: 1px solid #CC0001; border-width: 0 0 1px 0;
+}
+
+.nav-title-link:link,
+.nav-title-link:visited,
+.nav-title-link:hover,
+.nav-title-link:active { 
+	display: inline-block;
+	padding: 0.3125rem 0;
+	color: #CC0001; font-family: "Droid Sans", sans-serif; font-size: 1rem; font-weight: 400; text-transform: uppercase;
+	border: 0;
+}
+.nav-title-link:after {
+	content: " →";
+}
+
+
+.nav-list { padding: 0 0 0 1.5625rem; margin: 0.625rem 0 1.6rem; }
+
+.nav-item { 
+	margin: 0.3571428571428571rem 0; 
+	color: #CC0001;
+}
+
+.nav-link:link,
+.nav-link:visited { 
+	border: 0; 
+	color: #555;
+}
+
+.nav-link:hover,
+.nav-link:active { 
+	border: 1px solid #CC0001; border-width: 0 0 1px 0;
+	color: #CC0001; 
+}
