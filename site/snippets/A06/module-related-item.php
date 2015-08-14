@@ -1,0 +1,1 @@
+		<li class="related-item"><a class="related-item-link" href="<?php echo $sibling->url(); ?>"><?php echo $sibling->title(); ?></a><?php if ($page->template() != 'home'): ?><?php e($sibling_type, '<span class="related-item-type"> — ' . $sibling_type . '</span>'); ?><?php endif; ?></li>
