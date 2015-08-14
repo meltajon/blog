@@ -1,0 +1,289 @@
+Title: iWatch Predictions
+
+----
+
+Date: 2014-02-13
+
+----
+Author: melmyfinger, meltajon
+----
+
+Body: Buzz around the fabled "iWatch" has really hit fever-pitch levels since [9to5Mac's big scoop](http://9to5mac.com/2014/01/31/iwatch-ios-8-apple-sets-out-to-redefine-mobile-health-fitness-tracking/). Here's an overview of everything that we know, what we should expect, and what I think could happen.
+
+## Preface
+
+First of all, we don't know for sure if it'll be called the iWatch. Apple does __not__ hold the iWatch trademark in [the US, UK, parts of Europe, or China](http://news.cnet.com/8301-13579_3-57592429-37/non-apple-companies-hold-iwatch-trademark-in-u.s-u.k-china/). However, Apple did apply for the trademark in [Japan and Russia](http://www.theguardian.com/technology/2013/jul/01/apple-iwatch-trademark-wearable-technology). We'll just keep calling it the iWatch for now.
+
+Secondly, instead of being a standalone device, I think the iWatch will be a companion device for the iPhone/iPad. Remember, the earlier models of the iPod, iPhone, and iPad were all companion devices that originally required a computer to start up.
+
+## Aesthetics
+
+**A Fashion Statement, Not a Fitness Band**
+
+There's been some debate on whether the iWatch will look like a traditional watch or it will look more like the Nike FuelBand. I'm betting on the former, mainly because of persistent rumors that Apple has been [testing 1.5 inch screens](http://news.cnet.com/8301-13579_3-57585294-37/apple-testing-1.5-inch-display-for-iwatch-claims-report/).
+
+Also, Apple knows the value of slowly transitioning consumers to new paradigms. When the first Macintosh was made, they controversially [left out the arrow keys](http://lowendmac.com/history/1984dk.shtml) because they wanted to force people to use the new mouse interface. When iOS was first introduced, the interface was designed to [resemble things in the real world](http://webdesign.tutsplus.com/articles/skeuomorphism-in-interface-design--webdesign-7638) so new users would feel right at home with the new touch interface. This year, Apple will encourage people to adopt the iWatch by making it look like a fashion item, not a geek toy. 
+
+If Apple doesn't make this thing look casual, it'll be a failure. Apple will have to put a higher standard on aesthetics, even higher than any device they've done before. They cannot settle with a clunky, geeky design like the [Samsung Galaxy Gear](http://www.pcadvisor.co.uk/videos/3500779/galaxy-gear-is-expensive-gimmicky-bulky-heavy-and-kinda-cool/) that only tech geeks will wear. Surprisingly, in the past 10 years, the only smartwatch that has come close to looking fashionable is the recently announced [Pebble Steel](https://getpebble.com/steel).
+
+Based on some recent moves, it appears that Apple knows the importance of fashion value.
+
+Last year, Apple hired the head of a fashion house, [Paul Deneve](http://www.businessweek.com/articles/2013-07-03/apple-hires-a-fashion-ceo-but-he-wont-design-iwatches) of Yves Saint Laurent. While he's not rumored to be designing the iWatch, expect his marketing expertise to help Apple think more like a fashion company and less like a tech company.
+
+Apple also hired the CEO of Burberry, [Angela Ahrendts](http://www.macrumors.com/2014/01/06/how-angela-ahrendts-burberry-experience-could-drive-the-future-of-apple-retail/), to head the retail division. Heralded as [the woman who revived Burberry](http://www.theguardian.com/business/2013/oct/15/angela-ahrendts-burberry-apple-retail), she probably knows a thing or two about designing and selling fashion-related goods.
+
+**Sapphire Crystal Display**
+
+Sapphire Crystal has been a standard for high-end timepieces for decades. It's strong as hell and [extremely scratch resistant](http://9to5mac.com/2014/02/05/video-demo-of-sapphire-coated-iphone-display-leaves-it-unscratched-by-concrete/). Apple recently bought [$578 million worth of sapphire crystal](http://techcrunch.com/2013/11/08/why-apple-bought-578m-worth-of-sapphire-in-advance/) in advance. It's expected to eventually replace Gorilla Glass that's used in iPhones and iPads, but it might makes sense to start working with it on a smaller scale first.
+
+**One Size…For Now**
+
+In the real world, wrists come in all sorts of sizes. Some people can wrap their hand around their wrist til their thumb and middle finger touch. Guys like me can't. A classic Men's Rolex might look too big on one person and too small on another. If the iWatch is going to be fashionable, it will have to accommodate different wrist sizes.
+
+I'm guessing Apple *wants* to do two sizes, regular and small, but will only have the resources to pull off the regular size for the first year. That should work out just fine. Besides, it's probably safe to assume *mainstream* women won't be *immediately* interested in a smartwatch anyway. Not being sexist, just being real.
+
+**Customizable Straps?**
+
+An iWatch with a black rubber strap would look sporty. A metal bracelet may look sophisticated. A thick leather strap, rugged. Customizable watch straps have been around for decades and they certainly have a way of adding personality.
+
+Apple has never done cosmetic customization like this in the past. But because fashion matters so much for wearables, they might have to think differently. And if you think about it, there's an entire industry out there for smartphone cases. So why not create an industry for iWatch straps?
+
+I really hope this happens but I'll be conservative and say *maybe* this will happen in the second or third iteration, if ever.
+
+## Health and Fitness Sensors
+
+Apple's been stockpiling on [talent from the medical field](http://9to5mac.com/2013/07/18/apple-stacks-iwatch-team-with-sensor-fitness-experts/), particularly from these three companies:
+
+* **AccuVein** — "…specializes in portable device sensors to map out veins in the body via a [non-invasive fashion](http://www.youtube.com/watch?v=4im2FqdRf78)."
+
+* **C8 MediSensors** — "The company’s technology provides a non-invasive way to measure substances in the human body such as glucose levels. The technology, as described in the [video](http://www.youtube.com/watch?v=ftcPXSH4Iek), could be ideal for patients monitoring diabetes."
+
+* **Senseonics** — A device that provides real-time glucose measurements, including "the rate and direction of glucose change, graphical trends, and alerts for impending hypoglycemia or hyperglycemia."
+
+We should also note some of Apple's key hires these past couple years:
+
+* [Jay Blahnik](http://www.jayblahnik.com/) — one of the main guys that worked on the Nike+Running, Nike+ Kinect Training, and Nike FuelBand.
+* [Roy Raymann](http://9to5mac.com/2014/02/04/308926/) — a sleep research expert from Philips Research.
+* [Ben Shaffer](http://9to5mac.com/2013/09/27/apple-hires-one-of-nikes-top-fuel-band-designers-to-work-on-wearable-devices/) — former Studio Director for Nike's R&D lab that worked on the Nike FuelBand.
+
+Recently, 9to5Mac had a [big scoop](http://9to5mac.com/2014/01/31/iwatch-ios-8-apple-sets-out-to-redefine-mobile-health-fitness-tracking/) on iOS 8 and the upcoming "Healthbook" app by Apple. This scoop gained further credibility when Apple published a [job posting](http://9to5mac.com/2014/02/06/iwatch-time-apple-seeking-physiologists-to-run-cardiovascular-fitness-energy-expenditure-tests/) seeking physiologists to run fitness and energy expenditure tests.
+
+Health & Fitness will for sure be a big selling point for the iWatch.
+
+## Contextual/Predictive Interface
+
+There are some iWatch concepts and tech demos that show how it'd be possible to [type on a smartwatch](http://www.theverge.com/2014/1/7/5285156/fleksy-lets-you-type-for-the-first-time-on-a-galaxy-gear-smartwatch). Newsflash, guys: *nobody wants to type on a fucking watch*. Really, all these terrible iWatch concepts are reminiscent of the [terrible iPhone concepts](http://appleiphone.blogspot.com/) that came out before the iPhone.
+
+The reality is, navigating on a watch needs to be simple. I'm talking [2010 iPod nano](http://www.engadget.com/2010/09/07/ipod-nano-review-2010/) simple. Simpler, even.
+
+Instead of trying to type on a watch, **the watch should predictively bring information to you**. The only inputting that should be done should be in the form of simple button choices, like "Delete Email or Dismiss." Or in other words, it should function like [Google Now](http://www.google.com/landing/now/) and [Google Glass](http://www.google.com/glass/), minus the voice commands.
+
+(Sidenote: What Google is doing with Google Now is truly amazing. They're simply delivering on all of Apple's promises of Siri. It'll be very interesting to see what wearables Google comes up with and how future iterations of Google Glass will turn out. As much as I'm talking up Apple, the wearable computing space is totally up for grabs.)
+
+Steve Jobs once said this about the iPod:
+
+> One of the biggest insights we have was that we decided not to try to manage your music library on the iPod, but to manage it in iTunes. Other companies tried to do everything on the device itself and made it so complicated that it was useless.
+
+You can bet the same philosophy for simplicity will be applied to the iWatch.
+
+## Password-Killing Biometrics?
+
+We all can relate to this:
+
+> Sorry, your password must include one capital letter, a number, a special character, a Pokemon character, a hieroglyph, a Hersey-Kiss-with-eyes emoji, a Chinese proverb, a unicorn, the meaning of life, and a haiku about bacon.
+
+Passwords are a pain in the ass and it's a broken solution that worsens with every device and web service that we use. This is a huge problem that affects *everyone*.
+
+But just imagine a world with no passwords, PIN codes, or even fingerprint scanners. Imagine walking up to your front door and it unlocking by itself. Imagine placing your order at Starbucks, getting a push notification on your iWatch with the final price, and just tapping "Accept." Imagine a world where every device you own just *knows* who you are and everything magically unlocks for you.
+
+I admit, this is the craziest out of all my predictions, but Apple has the three pieces needed to make this possible:
+
+* **iCloud Keychain** — your digital keychain that holds your Safari usernames and passwords, credit card information, and WiFi network information across all devices. This feature was added in iOS 7.
+
+* **iBeacon** — the low-powered, low-cost Bluetooth framework that enables devices to identify, communicate and locate each other when within proximity. Basically, it's like Android's NFC but smarter and more versatile. This also has been included in iOS 7.
+
+* **Vein Recognition** — the technology by AccuVein that is able to verify a person's identity by scanning the patterns of their veins.
+
+With all three technologies in an iWatch, all of a sudden you'd have a secure, all-purpose digital keychain on your body that could be used for anything. And best of all, *it could only be used by you*. Vein recognition would one-up Android's NFC by removing one layer of friction (i.e no need confirm your identity with a password or PIN code) while adding an extra layer of security.
+
+## Battery Life: A Top Priority
+
+Every Apple product has that one killer feature that, over time, people take for granted. The iPod had iTunes. The iPhone has a kick-ass camera. The iPad has unbelievable battery life. While naysayers repeatedly cry, "Apple does the same shit every year!" Apple continues to develop the stuff that really matters.
+
+For the iWatch, I think Apple will invest a tremendous amount of resources in developing the battery life.
+
+If you think about it, before smartphones, we had cell phones that would last for several days on a single charge. Smartphones made it socially acceptable to have a phone that would barely last a day. However, I don't think people will be that forgiving with a watch.
+
+Apple reportedly has their [prototypes holding a charge for 1-2 days](http://www.macrumors.com/2013/12/13/apples-iwatch-said-to-arrive-in-october-2014-with-wireless-charging/) but they're doing everything they can to stretch that to 4-5 days.
+
+One idea they're trying involves their patent for [wireless, over-the-air charging](http://www.patentlyapple.com/patently-apple/2013/12/apple-wins-patents-for-wireless-charging-system-new-mac-pro.html). Admittedly, I'm not confident that implementation will be ready to ship this year. Maybe in the future, Macs will act as wireless power stations that will charge your iWatch when you're nearby. We'll see.
+
+A recent report also says Apple is [exploring other ways](http://9to5mac.com/2014/02/02/will-apple-use-some-sort-of-pie-in-the-sky-battery-tech-for-the-iwatch/) to improve battery life, including solar power and kinetic charging.
+
+Will any of those technologies be enough? I hope so. I'll leave it up to their engineers to figure that out. Apple knows [this will be key](http://bits.blogs.nytimes.com/2014/02/12/for-wearable-computers-a-new-kind-of-user-interface-challenge/) for mainstream adoption.
+
+## No Camera
+
+Apple already has a camera — it's called the iPhone. And like I said before, the camera is the iPhone's most underrated killer feature. There's no way Apple will be able to deliver a good camera on an iWatch right now, so why even bother? Maybe someday in the future. Maybe. But for now, Apple will focus on more important things.
+
+In the meantime, Samsung and their [50,000 Galaxy Gear customers](http://bgr.com/2013/11/18/samsung-galaxy-gear-sales/) can keep the bragging rights to their crappy [1392 x 1392 pixel](http://www.androidcentral.com/samsung-galaxy-gear-camera-sample-shots) camera.
+
+Apple cares about doing things right, not doing things first.
+
+## No Siri…Yet
+
+It would be a dream come true if you could completely control a device using only your voice. But alas, Siri's not reliable enough yet.  Also, Siri requires internet connection, which would be a battery-killer on a watch.
+
+But keep an eye out for what Google does with this. If there is one company out there that will get this right, it'll be Google.
+
+## No iWatch App Store…Yet
+
+Just like the iPhone, Apple will probably hold off on developer access for a year or two. Two reasons: 1) it takes a lot of time to build an API, and 2) it gives developers/consumers time to learn how the user interface, in Apple's eyes, is meant to be.
+
+Expect iPhone/iPad apps to integrate with the iWatch this year and then third-party iWatch apps a year or two later.
+
+## "The iWatch will fail just like all other smartwatches"
+
+First of all, all other smartwatches have been ugly. Secondly, all other smartwatches had features that were either too niche (e.g. fitness-oriented) or [too gimmicky](http://www.independent.co.uk/life-style/gadgets-and-tech/news/is-samsungs-new-galaxy-gear-smart-watch-advert-the-worst-commercial-of-2013-9022510.html).
+
+The three things I talked about — health & fitness sensors, predictive interface, and password-killing biometrics — are all opportunities to solve real world problems. (The aesthetics, which could be considered as a feature, will market itself.) All of these combined would put the iWatch ahead of today's competition.
+
+Apple also has something that nobody else has — a ton compatible devices. Even if the iWatch were to only be compatible with the iPhone, Apple would have a HUGE advantage.
+
+Based on the premise that consumers are on a two-year replacement cycle, we can estimate there are [290 million iPhones](http://ben-evans.com/benedictevans/2014/1/28/ecosystem-maths) in use right now (not even including second-hand iPhones). Since Bluetooth LE been present in all iPhones since the 4S, most of those will be iBeacon-enabled, which means an iWatch would work with *every single one of those iPhones*, right out of the box.
+
+If we just looked at raw numbers, 290 million iBeacon-enabled iPhones would be dwarfed by Android's whopping [416 million NFC-enabled phones](http://news.cnet.com/8301-1035_3-57618791-94/nfc-enabled-cell-phones-to-hit-416-million-shipments-report/) projected to ship this year. Unfortunately for Android, that number is terribly misleading as NFC frameworks have yet to be standardized across manufacturers and consumers have yet to show interest in it.
+
+Fanboyism aside, the reality is, the wearable device space is totally up for grabs. It doesn't matter who you are in the tech industry…success is *never* guaranteed. Just expect Apple to follow the same winning formula they've always used to make a compelling product.
+
+## Setting Expectations
+
+Some analysts are already proclaiming the iWatch will hit [$17.5 billion in sales in the first year](http://news.cnet.com/8301-13579_3-57618292-37/apple-iwatch-could-trigger-sales-as-high-as-$17.5b-analyst/). lol, I'm not so sure about that. Definitely not for the first year.
+
+Knowing Apple, they have a solid roadmap for the iWatch for the next several years. But for the first-gen model, expect limited functionality (probably less than what I've talked about) and only immediate success among early adopters. 
+
+Let's remember, the first-gen iPhone costed $600 on-contract, didn't have 3G, third-party apps, or even copy/paste. It wasn't until two years later that the iPhone matured enough to become a mainstream success.
+
+Great products take time to mature. Expect long-term progress, not immediate perfection.
+
+## "What's the big deal?"
+
+When Steve Jobs introduced the iPhone in 2007, he said, "Today, we revolutionize the phone." But really, the iPhone did way more than that. It introduced a new era of connection and real-time information. For better or for worse, it changed the way we work, communicate, socialize, and express ourselves. 
+
+The smartphone changed the way we connect to the world. Wearable devices will change the way *we connect to ourselves*. They will be our most personal devices. They will know us, our bodies, our health, what we're doing, and how we feel. 
+
+Instead of expecting the iWatch to be Apple's "next big thing," think of it as **the opening of a new dimension for the iOS ecosystem**. The magic won't be in the iWatch itself; the magic will be in what happens when a wealth of biometric data is seamlessly tied to an iPhone/iPad.
+
+The creative opportunities are endless, and that's what makes it a big deal.
+
+----
+
+Excerpt: Buzz around the fabled "iWatch" has really hit fever-pitch levels since [9to5Mac's big scoop](http://9to5mac.com/2014/01/31/iwatch-ios-8-apple-sets-out-to-redefine-mobile-health-fitness-tracking/). Here's an overview of everything that we know, what we should expect, and what I think could happen.
+
+----
+
+Source-name: 
+
+----
+
+Source-url: 
+
+----
+
+Via-name: 
+
+----
+
+Via-url: 
+
+----
+
+Legacy-via: 
+
+----
+
+mentions: 
+
+----
+
+hashtags: apple,galaxy-gear,ipad,iphone,apple-watch,samsung
+
+----
+
+Categories: product-design, smartwatches, predictions, tech-ideas
+
+----
+
+Is-featured: 
+
+----
+
+Theme: A01
+
+----
+
+Featured-name: 
+
+----
+
+Featured-title: 
+
+----
+
+Featured-source-name: 
+
+----
+
+Meta-title: iWatch Predictions
+
+----
+
+Meta-description: Here's an overview of everything that we know, what we should expect, and what I think could happen.
+
+----
+
+Meta-keywords: iwatch, apple watch, predictions
+
+----
+
+Legacy-url: 
+
+----
+
+Legacy-guid: 
+
+----
+
+Legacy-slug: 
+
+----
+
+Legacy-id: 681
+
+----
+
+Legacy-post-format: 
+
+----
+
+Legacy-date: 
+
+----
+
+Legacy-date-gmt: 
+
+----
+
+Legacy-pub-date: 
+
+----
+
+Legacy-is-private: 
+
+----
+
+Is-listed: 1
+
+----
+
+Legacy-categories: 

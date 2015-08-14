@@ -1,0 +1,163 @@
+Title: Second Thoughts on App.net
+
+----
+
+Date: 2012-08-12
+
+----
+Author: melmyfinger, meltajon
+----
+
+Body: I'll admit, I had some <a href="/?p=178" title="Sorry App.net, we’re just not gonna work out…">serious doubts</a> on App.net. At the time I was still close-minded and thought of it as a Twitter clone.
+
+Then I came across this post by <a href="http://andrewchen.co/2012/07/18/i-supported-app-net-with-50month-heres-why/" title="Andrew Chen: Why I Supported App.net">Andrew Chen</a>:
+
+> * To build a feed within your app, you’d publish every action that any of your users do within your product, and then you ask App.net for the subset of the global feed that was published with your application.
+
+> * To build an API to let other apps publish on your feed, you don’t have to create your own API. Instead, you would just configure your app’s filter of the global feed to show posts from other applications, and voila, they would show up.
+
+> * To post to other feeds, you would just write into the global feed, and then ask the other apps to allow posts of your type into their feeds.
+
+> * To build a reader client for any other app or collection of apps, you would just filter the global feed based on posts from those apps.
+
+That's the part that caught my eye.
+
+Today we have cross-posting across multiple social networks (and mini-social networks), which is awesome. I can post on Instagram and have it go to my Twitter, Facebook and Tumblr, etc. But as more of these mini-social networks pop up with cross-posting abilities, our various newsfeeds get flooded with more and more duplicates.
+
+How many times have you seen a friend do this:
+
+1. post on Instagram
+2. Instagram pushes to Twitter
+3. Instagram pushes to Tumblr
+4. Tumblr auto-pushes to Twitter
+5. Tumblr auto-pushes to Facebook
+6. Instagram pushes to Facebook
+7. Facebook auto-pushes to Twitter
+
+That's the same Instagram post published seven times. I don't know about you but I still see that happen. And that annoys me to no end.
+
+The more I thought about this, the more I started to appreciate the dream behind App.net.
+
+What if everybody just published everything into this giant river and then developers give us the ability to selectively choose exactly what we want to see? Sounds to me like that could be the next generation of real-time information.
+
+From a non-developer standpoint, going back to my <a href="/?p=178">original thoughts</a> of App.net, I was concerned about none of my personal friends forking over $50/year. But you know what? Just because a technology isn't mainstream doesn't mean it can't change the internet.
+
+Just look at RSS. I would say that 95% of my friends -- including the social media saavy ones -- don't have the slightest clue of how to use RSS feeds. But for geeks and influencers of the tech industry, RSS feeds are CRUCIAL. And its these influencers that eventually have an affect over the mainstream.
+
+So on second thought, I was totally wrong about App.net. Instead of thinking App.net as "another Twitter" that will never go mainstream, I've embraced the idea of it as potentially becoming the next generation of RSS feeds for the tech industry. Even if it never grew past the 10,000 initial backers of the project...that 10,000 could be the most influential people on the internet.
+
+And that would make it worth the $50/year.
+
+<strong><a href="http://join.app.net" title="App.net - Join the Movement">Pledge App.net</a></strong>
+
+----
+
+Excerpt: 
+
+----
+
+Source-name: Andrew Chen
+
+----
+
+Source-url: http://andrewchen.co/2012/07/18/i-supported-app-net-with-50month-heres-why/
+
+----
+
+Via-name: 
+
+----
+
+Via-url: 
+
+----
+
+Legacy-via: 
+
+----
+
+mentions: 
+
+----
+
+hashtags: app-net
+
+----
+
+Categories: products
+
+----
+
+Is-featured: 
+
+----
+
+Theme: A01
+
+----
+
+Featured-name: 
+
+----
+
+Featured-title: 
+
+----
+
+Featured-source-name: 
+
+----
+
+Meta-title: Second Thoughts on App.net
+
+----
+
+Meta-description: I'll admit, I had some serious doubts on App.net. At the time I was still close-minded and thought of it as a Twitter clone. Then I came across this post by Andrew Chen.
+
+----
+
+Meta-keywords: app.net
+
+----
+
+Legacy-url: 
+
+----
+
+Legacy-guid: 
+
+----
+
+Legacy-slug: 
+
+----
+
+Legacy-id: 188
+
+----
+
+Legacy-post-format: 
+
+----
+
+Legacy-date: 
+
+----
+
+Legacy-date-gmt: 
+
+----
+
+Legacy-pub-date: 
+
+----
+
+Legacy-is-private: 
+
+----
+
+Is-listed: 1
+
+----
+
+Legacy-categories: 

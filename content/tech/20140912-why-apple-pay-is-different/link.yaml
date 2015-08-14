@@ -1,0 +1,83 @@
+Title: Why Apple Pay is Different
+
+----
+
+Date: 2014-09-12
+
+----
+Author: melmyfinger, meltajon
+----
+
+Body: [Rich Mogull, Macworld](http://www.macworld.com/article/2607181/why-apple-pay-could-be-the-mobile-payment-system-youll-actually-use.html):
+
+> Apple Pay is far from the first mobile payment system. Google Wallet was released in 2011, a collection of mobile phone companies back Softcard, and even PayPal targets mobile payments. However, none has gained wide adoption, and Apple Pay is clearly poised to shake things, for several reasons.
+
+> First is the usual attention that Apple pays to the entire user experience. With Google Wallet, you need to enter your card numbers by hand, either online or through the app. To make a payment, you need to use the app and unlock it with a passcode. Although Google Wallet can work with NFC, the actual implementation depends on the hardware and software combination of your Android phone. Even if your phone has NFC, if it doesn’t have a secure element too, you can’t use it for contactless payments. And if your phone does have a secure element, it may not be accessible to Google Wallet because it isn’t accessible to the NFC chipset or due to carrier restrictions.
+
+> Those same mobile phone carriers are the ones backing the competing Softcard product, and they haven’t seemed very supportive of Google. Also, Google stores your card on its own servers and mediates and records all transactions with the payment networks. (Wallet issues a virtual prepaid card to the device). Google protects this with its privacy policy, but the company still has full records of all of your transactions. Softcard is also an app, only works on approved phone models, and is carrier-specific. The carriers back Softcard, in part, so they can track your purchases and use that information for their own purposes.
+
+> By contrast, Apple Pay works with every new iPhone and Apple Watch. Apple doesn’t track your transactions, and your privacy is protected even from the merchants.
+
+> But aside from the technical differences, Apple is in a unique position due to its business model. It doesn’t want or need to track transactions. It doesn’t want or need to be the payment processor. It isn’t restricted by carrier agreements, since it fully controls the hardware. Google, although first to the market by a matter of years, is still hamstrung by device manufacturers and carriers. Softcard is hamstrung by the usual greed and idiocy of mobile phone providers. PayPal has no footprint on devices.
+
+Google did it first. Apple does it better. These are the important details that you'd never see in a tech spec  sheet. These are subtle differences that  separate an Android feature from an Apple solution.
+
+----
+
+Excerpt: Google did it first. Apple does it better. These are the important details that you'd never see in a tech spec  sheet. These are subtle differences that  separate an Android feature from an Apple solution.
+
+----
+
+Source-name: Macworld
+
+----
+
+Source-url: http://www.macworld.com/article/2607181/why-apple-pay-could-be-the-mobile-payment-system-youll-actually-use.html
+
+----
+
+Via-name: 
+
+----
+
+Via-url: 
+
+----
+
+Mentions: 
+
+----
+
+Categories: mobile-trends,product-design,ux,mobile-payments
+
+----
+
+Is-featured: 
+
+----
+
+Featured-name: 
+
+----
+
+Featured-title: 
+
+----
+
+Featured-source-name: 
+
+----
+
+Meta-title: 
+
+----
+
+Meta-description: 
+
+----
+
+Meta-keywords: 
+
+----
+
+Hashtags: 

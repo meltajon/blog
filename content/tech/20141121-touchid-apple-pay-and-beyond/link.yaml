@@ -1,0 +1,81 @@
+Title: TouchID: Apple Pay and Beyond
+
+----
+
+Date: 2014-11-21
+
+----
+
+Meta-title: TouchID: Apple Pay and Beyond
+
+----
+
+Is-featured: 
+
+----
+Author: melmyfinger, meltajon
+----
+
+Body: [Martin](http://www.asymco.com/2014/09/15/the-critical-path-122-where-the-money-is/#comment-1595942831):
+
+> Apple built a generic, almost foolproof device-level identity security system around TouchID, Secure Enclave, and custom secure element hardware at the lowest level of iOS that can be opened up to pretty much anyone Apple wants to let in. This is unique, and I don't see anyone else who can replicate this. Apple is merely renting this security service out to the banks for the price of a percentage of the transaction. They don't need to build a proprietary payment network, or even be a link in the payment chain. 
+
+> And this system can work equally as well for health providers securing user identity to exchange HIPAA covered health data for Healthkit (for a modest fee, naturally). They can rent it to employers to secure their employee identity - not just for getting into corporate applications but add HomeKit into the mix and a company can put an NFC lock on a door, issue tokens to the iPhones of the 10 employees allowed into that room, and that gives them the ability to unlock the door with their iPhone following a positive fingerprint check. The employer can remotely revoke those tokens as needed.
+
+> This is effectively a way to replace username and passwords for anything from your iPhone or Apple Watch, if Apple builds it out to its full potential. It relieves the burden of choosing good passwords, remembering them, securing them, and puts all of the control on the agency that needs to control the security, rather than on the one being secured.
+
+> The recent partnership with IBM might make more sense now.
+
+Shout-out to the people who said TouchID is boring, not innovative, and no different than any other fingerprint scanner out there.
+
+----
+
+Excerpt: 
+
+----
+
+Meta-description: 
+
+----
+
+Source-name: Asymco
+
+----
+
+Source-url: http://www.asymco.com/2014/09/15/the-critical-path-122-where-the-money-is/#comment-1595942831
+
+----
+
+Via-name: 
+
+----
+
+Via-url: 
+
+----
+
+Mentions: 
+
+----
+
+Hashtags: apple,apple-pay,touch-id
+
+----
+
+Meta-keywords: 
+
+----
+
+Featured-name: 
+
+----
+
+Featured-title: 
+
+----
+
+Featured-source-name: 
+
+----
+
+Categories: mobile-trends,tech-ideas,mobile-payments

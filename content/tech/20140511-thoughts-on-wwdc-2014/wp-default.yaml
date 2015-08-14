@@ -1,0 +1,218 @@
+Title: Thoughts on WWDC 2014
+
+----
+
+Date: 2014-05-11
+
+----
+
+Author: melmyfinger, meltajon
+
+----
+
+Body: 
+
+Depending on how techie you are, Apple's [WWDC](http://www.apple.com/apple-events/june-2014/) announcements last week left you with one of these impressions:
+
+* “No new iPhone?! LAME.”
+* “PATHETIC. Android has had all of that for years!”
+* "HOLY. SHIT. MINDBLOWN."
+
+If you're in the first group, you're most likely a consumer and not a developer. We have to remember, WWDC — short for World Wide Developer Conference — is a *developer* conference. For *developers*. Not consumers.
+
+If you're in the second group, I got news for you: everyone copies. That's how technology moves forward. The best ideas are copied, remixed, refined, and evolve. As long as consumers win, why do we still need to argue about this?
+
+If you're in the last group, you are either an iOS developer or an Apple enthusiast, and have a solid understanding/appreciation of [how Apple does things](https://www.youtube.com/watch?v=VpZmIiIXuZ0).
+
+As a developer and user experience designer, my job entails identifying specific user problems, researching/testing the right solutions, and delivering them to the right people at the right time. My passion lies in finding what makes new technology *meaningful* to *real people*, not just early adopting techies like me.
+
+With that said, I'll try to break down all the developer stuff into real world examples for you.
+
+## New Features in iOS 8
+
+* If you hate getting a text message notification and having to  switch apps just to reply, [Interactive Notifications](http://www.apple.com/ios/ios8/design/) will be for you. (Hat tip to Android)
+* If you're stuck in a chatty iMessage group and hate being raped with notifications all day, you will be able to mute it or leave the group.
+* If you've ever asked your friend, "where the hell are you??" iMessage's new [Temporary Location Sharing](http://www.apple.com/ios/ios8/messages/) will be for you.
+* If you've ever wondered which f'ing app is killing your battery, you will be able to find out under the Settings app. (Hat tip to Android)
+* If you have kids or siblings with their own iPods/iPads/iPhones, you can share purchased apps with each other (up to 6 family members).
+* If you've ever ran out of space on your iPhone and had to delete photos/videos to clear some space, all of your photos/videos are now saved to your [iCloud Photo Library](http://www.apple.com/ios/ios8/photos/) automatically.
+* If you came from an Android and you miss the Swype keyboard, you'll finally be able to install Swype and other popular third-party keyboards.
+* If you've ever used a shady third-party keyboard on an Android and had your password stolen because of it, iOS 8's safer third-party keyboards will [protect you](https://twitter.com/MelTajon/status/474950018311258113).
+* If you've ever needed to quickly get copy a photo/screenshot from your iPhone to your Mac, you can do it with the new AirDrop. No more emailing stuff to yourself.
+* If you text a lot while driving (shame on you!), you can instead use iMessage like a walkie-talkie with the new Audio Messages feature.
+* If you send a lot of pictures to friends via iMessage, [the new iMessage interface](http://scotthurff.com/posts/what-we-can-learn-from-apples-imessage-changes-in-ios-8) will make it much quicker for you.
+* If a MacBook doesn't offer enough space for you to hold all your photos/videos, you'll be able to keep it all online in your [iCloud Photo Library](http://www.apple.com/ios/ios8/photos/) instead.
+* If you take a lot of photos and care about nailing the right exposure and focus, the [updated Camera app](http://gizmodo.com/hands-on-with-three-of-the-coolest-ios-8-tricks-1585090710) is for you.
+
+All of these features will be available to everyone out-of-the-box. But the real magic of iOS 8 will come from what developers will do with their apps.
+
+## Possible Features for Apps
+
+* If you like to edit photos multiple times with multiple apps before uploading to Instagram, you'll be able to do all that from just the Photos app.
+* If you have to watermark your Instagrams (e.g. you're a makeup guru), you'll be able to do that easily with third-party filters in the Photos app.
+* If you like to create Reddit-style memes or stamp Asian-style stickers on your photos, this will also be possible with third-party filters in the Photos app.
+* If you have multiple accounts for a social network (e.g. Instagram accounts for yourself and your dog) and hate constantly re-logging in, you'll be able to log in with just your fingerprint (Touch ID) and iCloud Keychain.
+* If you hate remembering and/or typing passwords in general, you can log into apps and websites with Touch ID and iCloud Keychain.
+* If you have a FitBit and a Nike+ account, they can now work together with the new Health app.
+* If you edit a lot of documents from your iPad, you'll be able to store them in *any cloud service you want*, in *any editing app you want*.
+* If your favorite sports team is playing and you need to know the score, you can now view it as a Widget from Notification Center. (Hat tip to Android)
+
+Most of these features have been possible to Android and jailbroken iPhone users for years. The difference between iOS 8 and Android is iOS 8 has taken bigger steps to protecting you from hackers/viruses.
+
+## "So what about the new iPhone??"
+
+While we didn't get any new hardware from WWDC, Apple did provide us with some tea leaves that we can read to make predictions:
+
+* Larger iPhones are coming. Apple's developer tools let developers [simulate apps on larger iPhone screen sizes](http://9to5mac.com/2014/06/02/xcode-6-features-resizable-iphone-and-ipad-simulators-leading-the-way-for-iphones-with-new-screen-resolutions/) all but confirm it.
+* A larger iPad is coming, for the same reason as above.
+* The [iWatch](/?p=681) is coming. The new [Health app](http://www.apple.com/ios/ios8/health/) is a key software component for it.
+
+Expect new hardware around September, when iOS 8 is released.
+
+## "The next iPhone better WOW me or else Apple is doomed."
+
+If you're expecting the new iPhone to have some new mind-blowing hardware, you're setting your expectations too high. That goes for *any* smartphone. The smartphone industry has matured to a point where all hardware is basically commoditized and going forward, manufacturers will just be playing leapfrog with each other. If all you care about is hardware and comparing tech specs, the future of the smartphone will be very disappointing to you.
+
+Instead of focusing on tech specs, all future innovation for the smartphone will lie in tying it into other parts of your life.
+
+Imagine waking up to your smartphone's alarm clock. You hop into the shower and you blast your Spotify playlist from your bluetooth shower speakers. You step out the door and the A/C automatically turns off. You hop into your car and your Spotify playlist picks up right where it left off. You pull out from the driveway and your garage automatically closes itself. You drive up to Starbucks, your usual order is placed automatically, and you confirm payment for your order with a simple fingerprint scan.
+
+When you get home from work, the garage door automatically opens, the A/C and living room lights turn on, and your TV automatically tunes to your favorite show. You walk into the kitchen and the show on your TV starts playing on your tablet while you prepare dinner. A text notification pops up on your smartwatch but your hands are full with cooking utensils, so you reply to the text with a quick voice message.
+
+This is the kind of future we've all seen in movies for decades. The crazy thing is, we already have the technology to do this! The problem is, this technology is scattered all over the place. One company does the smart garage door opener. Another company does the smart lightbulbs. Another company does the smart TV…None of these have been able to talk to each other. Until now.
+
+For the first time ever, there's one unifying bridge that will make it possible to connect everything and anything. Mobile payments, smart home automation, wearable devices, smart car stereos…all can be compatible with each other with the help of iOS 8 and [290+ million active iPhones](http://ben-evans.com/benedictevans/2014/1/28/ecosystem-maths) acting as the intermediary.
+
+(To be fair, Android announced their [Android @Home](http://www.cnet.com/videos/google-unveils-androidhome/) initiative back in 2011. This is still in the works but so far, absolutely nothing has come out of it...yet. We'll have to revisit this after the [Google I/O 2014](https://www.google.com/events/io) conference later this month!)
+
+Apple already has a thriving, vibrant software ecosystem built around the iPhone. The next phase of the iPhone is about building an equally vibrant *hardware* ecosystem.
+
+Apple wants iOS/OSX to be the *universe* you live in, with the iPhone as the centerpiece of it all. We're talking about a future where every single aspect of your life can be digitally connected in new and meaningful ways. That's the vision. And all that so-called "boring" stuff that Apple announced at WWDC last week is a big step in making that a reality.
+
+----
+
+Excerpt: 
+
+Depending on how techie you are, Apple's [WWDC](http://www.apple.com/apple-events/june-2014/) announcements last week left you with one of these impressions:
+
+* “No new iPhone?! LAME.”
+* “PATHETIC. Android has had all of that for years!”
+* "HOLY. SHIT. MINDBLOWN."
+
+If you're in the first group, you're most likely a consumer and not a developer. We have to remember, WWDC — short for World Wide Developer Conference — is a *developer* conference. For *developers*. Not consumers.
+
+If you're in the second group, I got news for you: everyone copies. That's how technology moves forward. The best ideas are copied, remixed, refined, and evolve. As long as consumers win, why do we still need to argue about this?
+
+If you're in the last group, you are either an iOS developer or an Apple enthusiast, and have a solid understanding/appreciation of [how Apple does things](https://www.youtube.com/watch?v=VpZmIiIXuZ0).
+
+As a developer and user experience designer, my job entails identifying specific user problems, researching/testing the right solutions, and delivering them to the right people at the right time. My passion lies in finding what makes new technology *meaningful* to *real people*, not just early adopting techies like me.
+
+With that said, I'll try to break down all the developer stuff into real world examples for you.
+
+----
+
+Source-name: 
+
+----
+
+Source-url: 
+
+----
+
+Via-name: 
+
+----
+
+Via-url: 
+
+----
+
+Legacy-via: 
+
+----
+
+Mentions: 
+
+----
+
+Hashtags: ipad,iphone,apple-watch,apple
+
+----
+
+Categories: product-design,smartphones,tech-ideas
+
+----
+
+Is-featured: 1
+
+----
+
+Theme: A01
+
+----
+
+Featured-name: 
+
+----
+
+Featured-title: 
+
+----
+
+Featured-source-name: 
+
+----
+
+Meta-title: Thoughts on WWDC 2014
+
+----
+
+Meta-description: Why Apple's developer announcements are a big deal to consumers.
+
+----
+
+Meta-keywords: wwdc, apple, ios 8, osx
+
+----
+
+Legacy-url: 
+
+----
+
+Legacy-guid: 
+
+----
+
+Legacy-slug: 
+
+----
+
+Legacy-id: 706
+
+----
+
+Legacy-post-format: 
+
+----
+
+Legacy-date: 
+
+----
+
+Legacy-date-gmt: 
+
+----
+
+Legacy-pub-date: 
+
+----
+
+Legacy-is-private: 
+
+----
+
+Is-listed: 1
+
+----
+
+Legacy-categories: 

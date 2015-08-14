@@ -1,0 +1,145 @@
+Title: OpenID and DataPortability
+
+----
+
+Legacy-url: http://blog.melmyfinger.com/539
+
+----
+
+Legacy-pub-date: Sun, 20 Jan 2008 05:59:14 +0000
+
+----
+
+Legacy-guid: http://www.melmyfinger.com/archive/2008/01/20/openid-and-dataportability/
+
+----
+Author: melmyfinger, meltajon
+----
+
+Body: <p>The internet is evolving in a very, very cool way.  And this past week, Yahoo! <a href="http://openid.yahoo.com" title="Yahoo! OpenID">made a huuuuuge step</a> by adopting a thing called OpenID.</p>
+
+<p>What is OpenID?</p>
+
+(youtube: https://www.youtube.com/watch?v=xcmY8Pk-qEk)
+
+<p>So what does this mean?  This means that if you have a Yahoo! account, you'll be able to sign into <a href="http://openiddirectory.com/" title="The OpenID Directory">thousands of OpenID-enabled sites</a> without having to register.  Just log in with your OpenID and you're good to go.</p>
+
+<p>The cool thing is Yahoo! isn't the only big company that's supporting this.  Google and Microsoft are on board, and AOL already lets you <a href="http://journals.aol.com/panzerjohn/abstractioneer/entries/2007/02/15/aol-and-openid-where-we-are/1406" title="AOL and OpenID: Where we are">use your AOL/AIM account</a> as your OpenID login.  There's no doubt you'll be seeing more sites that say "login with OpenID" in the future.</p>
+
+<p>Another big announcement in the past couple weeks is <a title="Bombshell: Google and Facebook Join DataPortability.org" href="http://www.readwriteweb.com/archives/goog-fb-data.php">Google and Facebook joining</a> the DataPortability project.</p>
+
+<p>What is Data Portability?</p>
+
+<object type="application/x-shockwave-flash" width="425" height="239" data="http://www.vimeo.com/moogaloop.swf?clip_id=610179&server=www.vimeo.com&fullscreen=1&show_title=1&show_byline=1&show_portrait=0&color=">	<param name="quality" value="best" />	<param name="allowfullscreen" value="true" />	<param name="scale" value="showAll" />	<param name="movie" value="http://www.vimeo.com/moogaloop.swf?clip_id=610179&server=www.vimeo.com&fullscreen=1&show_title=1&show_byline=1&show_portrait=0&color=" /></object>
+
+<p>So what does this all mean?  This means that websites will be easier to join and everything (in theory) will be able to work with each other.  Example:</p>
+
+<p>I have a shitload of pictures on my <a href="http://www.flickr.com/photos/melmyfinger" title="Mel's Flickr">Flickr account</a>.  Problem is, many pictures are things that should be kept private (e.g. photos of us drinking back home).  So one option I could do is set all of those photos as private and tell you, "hey, if you want to see these private photos, you'll have to register at Flickr and add me as a friend."  It sucks having to say that, because I really want to share these photos with you guys but at the same time I want to respect everyone's privacy.</p>
+
+<p>So someday (in theory) I'll be able to say "gimme your OpenID so I can add you as a friend, then log into Flickr with your OpenID" and you'll automagically be able to see my private, friends-only photos.</p>
+
+<p>That's just one example that I can think of off the top of my head.  The possibilities are beyond endless.  If OpenID and DataPortability really take off, you'll be able to share whatever you want with whoever you want, anywhere and everywhere.</p>
+
+----
+
+Excerpt: 
+
+----
+
+Legacy-id: 539
+
+----
+
+Theme: A01
+
+----
+
+Date: 2008-01-19
+
+----
+
+Legacy-date: 2008-01-19 22:59:14
+
+----
+
+Legacy-date-gmt: 2008-01-20 05:59:14
+
+----
+
+Legacy-slug: openid-and-dataportability
+
+----
+
+Categories: tech-ideas
+
+----
+
+Meta-title: 
+
+----
+
+Is-listed: 1
+
+----
+
+Meta-description: 
+
+----
+
+Source-name: 
+
+----
+
+Source-url: 
+
+----
+
+Via-name: 
+
+----
+
+Via-url: 
+
+----
+
+Legacy-via: 
+
+----
+
+mentions: 
+
+----
+
+hashtags: 
+
+----
+
+Meta-keywords: 
+
+----
+
+Is-featured: 
+
+----
+
+Featured-name: 
+
+----
+
+Featured-title: 
+
+----
+
+Featured-source-name: 
+
+----
+
+Legacy-post-format: 
+
+----
+
+Legacy-is-private: 
+
+----
+
+Legacy-categories: 

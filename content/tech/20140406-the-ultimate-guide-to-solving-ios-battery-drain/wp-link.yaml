@@ -1,0 +1,133 @@
+Title: The Ultimate Guide to Solving iOS Battery Drain
+
+----
+
+Date: 2014-04-06
+
+----
+Author: melmyfinger, meltajon
+----
+
+Body: Former Apple Genius, <a href="http://www.overthought.org">Scotty Loveless</a>, shares his insights on iOS battery drain from his two years of working as an Apple Genius.
+
+Two things stuck out to me:
+
+> I have confirmed this behavior on multiple iPhones with the same result: percentage points actually increase after disabling these background functions of Facebook.
+
+After iOS 7's changes to multitasking, this sheds some light for me:
+
+> By closing the app, you take the app out of the phone's RAM . While you think this may be what you want to do, it's not. When you open that same app again the next time you need it, your device has to load it back into memory all over again. All of that loading and unloading puts more stress on your device than just leaving it alone. Plus, iOS closes apps automatically as it needs more memory, so you're doing something your device is already doing for you. You are meant to be the user of your device, not the janitor.
+
+> The truth is, those apps in your multitasking menu are not running in the background at all: iOS freezes them where you last left the app so that it's ready to go if you go back. Unless you have enabled Background App Refresh, your apps are not allowed to run in the background unless they are playing music, using location services, recording audio, or the sneakiest of them all: checking for incoming VOIP calls , like Skype. All of these exceptions, besides the latter, will put an icon next to your battery icon to alert you it is running in the background.
+
+----
+
+Excerpt: 
+
+----
+
+Source-name: overthought.org
+
+----
+
+Source-url: http://bit.ly/overthought-the-ultimate-guide-to-solving-ios-battery-drain
+
+----
+
+Via-name: 
+
+----
+
+Via-url: 
+
+----
+
+Legacy-via: 
+
+----
+
+mentions: 
+
+----
+
+hashtags: ios,iphone
+
+----
+
+Categories: smartphones, tech-life
+
+----
+
+Is-featured: 
+
+----
+
+Theme: A01
+
+----
+
+Featured-name: 
+
+----
+
+Featured-title: 
+
+----
+
+Featured-source-name: 
+
+----
+
+Meta-title: 
+
+----
+
+Meta-description: 
+
+----
+
+Meta-keywords: 
+
+----
+
+Legacy-url: 
+
+----
+
+Legacy-guid: 
+
+----
+
+Legacy-slug: 
+
+----
+
+Legacy-id: 698
+
+----
+
+Legacy-post-format: 
+
+----
+
+Legacy-date: 
+
+----
+
+Legacy-date-gmt: 
+
+----
+
+Legacy-pub-date: 
+
+----
+
+Legacy-is-private: 
+
+----
+
+Is-listed: 1
+
+----
+
+Legacy-categories: 

@@ -1,0 +1,107 @@
+Author: melmyfinger, meltajon
+
+----
+
+Title: The Secret History of the Apple Watch
+
+----
+
+Date: 2015-04-02
+
+----
+
+Meta-title: 
+
+----
+
+Is-featured: 
+
+----
+
+Body: 
+
+David Pierce at Wired wrote up a [really, really great interview with Kevin Lynch](http://www.wired.com/2015/04/the-apple-watch/), the software lead for Apple Watch. Lots of great stuff to unpack. Here are all my highlights of the piece, starting with this:
+
+> Along the way, the Apple team landed upon the Watch’s raison d’être. It came down to this: Your phone is ruining your life. Like the rest of us, Ive, Lynch, Dye, and everyone at Apple are subject to the tyranny of the buzz—the constant checking, the long list of nagging notifications. “We’re so connected, kind of ever-presently, with technology now,” Lynch says. “People are carrying their phones with them and looking at the screen so much.” They’ve glared down their noses at those who bury themselves in their phones at the dinner table and then absentmindedly thrust hands into their own pockets at every ding or buzz. “People want that level of engagement,” Lynch says. “But how do we provide it in a way that’s a little more human, a little more in the moment when you’re with somebody?”
+
+> Our phones have become invasive. But what if you could engineer a reverse state of being? What if you could make a device that you wouldn’t—couldn’t—use for hours at a time? What if you could create a device that could filter out all the bullshit and instead only serve you truly important information? You could change modern life. And so after three-plus decades of building devices that grab and hold our attention—the longer the better—Apple has decided that the way forward is to fight back.
+
+> Apple, in large part, created our problem. And it thinks it can fix it with a square slab of metal and a Milanese loop strap.
+
+The team quickly learned that smartwatch must be used only a few seconds at a time:
+
+> Figuring out how to send a text was illuminating. Initially the process was a lot like texting on an iPhone: addressee here, message here, confirm message. Tap to send. “It was all very understandable, but using it took way too long,” Lynch says. Also, it hurt. Seriously: Try holding up your arm as if you’re looking at your watch. Now count to 30. It was the opposite of a good user experience. “We didn’t want people walking around and doing that,” Dye says. [...]
+
+> As the testing went on, it became evident that the key to making the Watch work was speed. An interaction could last only five seconds, 10 at most. They simplified some features and took others out entirely because they just couldn’t be done quickly enough. Lynch and team had to reengineer the Watch’s software twice before it was sufficiently fast. An early version of the software served you information in a timeline, flowing chronologically from top to bottom. That idea never made it off campus; the ideas that will ship on April 24 are focused on streamlining the time it takes a user to figure out whether something is worth paying attention to.
+
+The most common concern I hear from non-techies is, "I'm going to be even more distracted with notifications than my phone!" The Apple Watch team always knew this:
+
+> The team had to build software that presented everything you needed without being overwhelming. Fall short of that goal and users might start taking their Watches off, annoyed by the incessant buzzing, at which point the Apple Watch becomes the most personal device you ever bought and then immediately returned. By the time Lynch and his team had finished their third round of software, Ive, Dye, and everyone else believed that they’d nailed the balance.
+
+This next part shows how perfectionist the team is with their craftsmanship.
+
+Audible feedback is the most underrated aspect of design and touch feedback is still very new. I know, I know, Android devices have "had touch feedback for years!"...but they've always felt gimmicky and mechanical. The Apple Watch team spent a ridiculous amount of time making the audible and touch feedbacks feel natural and organic:
+
+> Apple tested many prototypes, each with a slightly different feel. “Some were too annoying,” Lynch says. “Some were too subtle; some felt like a bug on your wrist.” When they had the engine dialed in, they started experimenting with a Watch-specific synesthesia, translating specific digital experiences into taps and sounds. What does a tweet feel like? What about an important text? To answer these questions, designers and engineers sampled the sounds of everything from bell clappers and birds to lightsabers and then began to turn sounds into physical sensations.
+
+> There were weekly meetings where the software and interface teams would test out, say, the sound and feeling of receiving a phone call. Ive was the decider and was hard to please: Too metallic, he’d say. Not organic enough. Getting the sounds and taps to the point where he was happy with them took more than a year.
+
+This sums up the purpose of Apple Watch perfectly:
+
+> If the Watch is successful, it could impact our relationship with our devices. Technology distracts us from the things we should pay the most attention to—our friends, moments of awe, a smile from across the room. But maybe a technology can give those moments back. Whether Apple is the company to make that technology is the three-quarters-of-a-trillion-dollar-market-cap question.
+
+> Lynch is leaning forward in his chair, telling me about his kids: about how grateful he is to be able to simply glance at his Watch, realize that the latest text message isn’t immediately important, and then go right back to family time; about how that doesn’t feel disruptive to him—or them.
+
+> A moment later, he stands up. He has to leave; he owes Dye and Ive an update on something important. In all the time we’ve been talking, he’s never once looked at his phone.
+
+----
+
+Excerpt: 
+
+----
+
+Meta-description: 
+
+----
+
+Source-name: Wired
+
+----
+
+Source-url: http://www.wired.com/2015/04/the-apple-watch/
+
+----
+
+Via-name: 
+
+----
+
+Via-url: 
+
+----
+
+Categories: smartwatches
+
+----
+
+Mentions: 
+
+----
+
+Hashtags: apple-watch,apple,kevin-lynch
+
+----
+
+Meta-keywords: 
+
+----
+
+Featured-name: 
+
+----
+
+Featured-title: 
+
+----
+
+Featured-source-name: 

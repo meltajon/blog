@@ -1,0 +1,91 @@
+Title: How Apple Indoor Mapping Will Work
+
+----
+
+Date: 2015-01-18
+
+----
+
+Meta-title: 
+
+----
+
+Is-featured: 
+
+----
+Author: melmyfinger, meltajon
+----
+
+Body: 
+
+[AppleInsider](http://appleinsider.com/articles/15/01/18/the-road-ahead-3-ways-apple-could-push-maps-forward-with-ios-9-in-2015-):
+
+> Apple has taken two different but complimentary approaches to this problem. The first is the iBeacon system, which depends on small palm-sized Bluetooth transmitters placed around a particular space. 
+
+> When an iOS device sees an iBeacon, it can analyze the signal to determine approximately how far away from that beacon it is. Using multiple iBeacons with known locations, developers can roughly triangulate the user's position. 
+
+> This isn't very helpful on a large scale, however, since there is no central database of iBeacon locations — such data is by and large only usable by the owner of the beacons. To address the larger problem, Apple acquired small indoor mapping firm WiFiSLAM in early 2013. 
+
+> WiFiSLAM's technology combines data from on-device sensors with Wi-Fi signal trilateration to plot a user's path. The Wi-Fi signals provide relative positioning, while on-board sensors record movement. 
+
+> Here's an example: your iPhone could analyze the signal strength of Wi-Fi networks around your house to determine approximately how far you are from each access point. As you move around, the accelerometer, magnetometer, and gyroscope on the handset measure forces exerted by maneuvers like turning left and then right again to avoid a coffee table. 
+
+> Combining all of that data together over a period of time can bring detailed patterns to light; e.g. "there is an obstacle three feet from point A that can be avoided by moving left two feet." Extending that data capture and pattern recognition to many users — say, the thousands of iPhone owners that visit a shopping mall in a given day — allows for the development of detailed and highly accurate maps without the aid of overhead satellites or dedicated data gathering initiatives.
+
+iBeacons, another "boring" feature announced two summers ago, will really shine when this indoor mapping system gains traction. Apple wants to be Google Maps, but for all indoor venues.
+
+----
+
+Excerpt: 
+
+----
+
+Meta-description: 
+
+----
+
+Source-name: AppleInsider
+
+----
+
+Source-url: http://appleinsider.com/articles/15/01/18/the-road-ahead-3-ways-apple-could-push-maps-forward-with-ios-9-in-2015-
+
+----
+
+Via-name: 
+
+----
+
+Via-url: 
+
+----
+
+Categories: tech-ideas
+
+----
+
+Mentions: 
+
+----
+
+Hashtags: apple,ibeacons
+
+----
+
+Meta-keywords: 
+
+----
+
+Featured-name: 
+
+----
+
+Featured-title: 
+
+----
+
+Featured-source-name: 
+
+----
+
+Author: melmyfinger, meltajon, meltajon

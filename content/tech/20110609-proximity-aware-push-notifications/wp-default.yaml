@@ -1,0 +1,181 @@
+Title: Proximity-Aware Push Notifications
+
+----
+
+Legacy-url: http://blog.melmyfinger.com/3766
+
+----
+
+Legacy-pub-date: Thu, 09 Jun 2011 23:38:29 +0000
+
+----
+
+Legacy-guid: http://www.melmyfinger.com/?p=3766
+
+----
+Author: melmyfinger, meltajon
+----
+
+Body: Back in 2006, when I was sporting a nifty little Sony Ericsson. I had this desktop app called BluePhoneElite that would push notifications from my phone to my computer screen via bluetooth. 
+
+It was great! When I got a text message, I'd see an unobtrusive growl notification pop up. When someone called me, same thing; a casual little growl notification to nudge me and then fade away.
+
+It was elegant. I could keep my eyes on the screen and not have to pick up my phone every time it beeped. And the notifications would only show up on my screen when my phone was nearby.
+
+Fast forward to today.
+
+Phones are way more capable. We have a hot new category of mobile devices in tablets. And with the announcement of iCloud, Apple clearly envisions consumers having more of these multiple devices.
+
+We are now living in era of real-time information and always-connected mobile devices. Push notifications will continue to grow more and more a part of our lives.
+
+So when you combine these two trends of push notifications and multiple devices, what do you get? I bet it's something like this:
+
+<ul>
+
+<li>Text messages only beep on your phone. </li>
+
+<li>New emails beep on <a href="http://sparrowapp.com/" title="Sparrow - Social Email Client for Mac">Sparrow</a>, your iPhone *and* iPad (but sound different on each).</li>
+
+<li>IMs only beep on your Mac.</li>
+
+<li>@mentions beep on both your phone and Mac but not your iPad.</li>
+
+<li>Farmville beeps your iPhone and iPad but not your Mac.</li>
+
+</ul>
+
+Why do we have to look at different devices for different notifications? Why do we have to deal with different alert tones on each device for the exact same notification?
+
+There has to be a better way. Something more elegant, like BluePhoneElite, but with that iCloud magic. Something that takes into account what device I am currently using. Maybe something like:
+
+Proximity-Aware Push Notifications.
+
+On Monday, Apple unveiled their new location-aware app, <a href="http://www.apple.com/ios/ios5/features.html#reminders" title="Reminders for iOS">Reminders</a>, which let's you assign locations to your tasks:
+
+> Say you need to remember to pick up milk during your next grocery trip. Since Reminders can be location based, you'll get an alert as soon as you pull into the supermarket parking lot.
+
+Proximity-awareness is a similar idea. But instead of having your location defined as calculated GPS region, it'd be defined by where you are in relation to your other devices. Or specifically, where your mobile device is in relation to your primary computer.
+
+Examples: 
+
+<ul>
+
+<li>When you get a new email and your iPhone is _not_ within 5 feet of your Mac, the notification is <em>only</em> pushed to the iPhone.</li>
+
+<li>When you receive a text message and your iPhone is close to your Mac, the notification is <em>only</em> displayed on the Mac.</li>
+
+</ul>
+
+You get the idea.
+
+A system like this means when we're at the desktop, we can keep our eyes on the monitor. When we walk away from the desk, we bring our notifications with us. (Hell, just for kicks: when we walk away from the desk, make our screensavers and lock screens go up as well.) 
+
+You see, with push notifications, we have signals that <a href="http://www.avc.com/a_vc/2011/03/mobile-notifications.html" title="Mobile Notifications - AVC - Fred Wilson">facilitate interactions in our digital lives</a>. A few years ago, things were simple: new text messages beeped on our phones, new email notifications beeped on our PCs. But now we are in an age of information overload with multiple devices and too many social web services. 
+
+Push helped us keep up with important messages. But now we need help keeping up with the push notifications themselves. We need something smarter system.
+
+And proximity-awareness is the perfect place to start.
+
+----
+
+Excerpt: 
+
+----
+
+Legacy-id: 3766
+
+----
+
+Theme: A01
+
+----
+
+Date: 2011-06-09
+
+----
+
+Legacy-date: 2011-06-09 16:38:29
+
+----
+
+Legacy-date-gmt: 2011-06-09 23:38:29
+
+----
+
+Legacy-slug: proximity-aware-push-notifications
+
+----
+
+Categories: tech-ideas
+
+----
+
+Meta-title: 
+
+----
+
+Is-listed: 1
+
+----
+
+Meta-description: 
+
+----
+
+Source-name: 
+
+----
+
+Source-url: 
+
+----
+
+Via-name: 
+
+----
+
+Via-url: 
+
+----
+
+Legacy-via: 
+
+----
+
+mentions: 
+
+----
+
+hashtags: 
+
+----
+
+Meta-keywords: 
+
+----
+
+Is-featured: 
+
+----
+
+Featured-name: 
+
+----
+
+Featured-title: 
+
+----
+
+Featured-source-name: 
+
+----
+
+Legacy-post-format: 
+
+----
+
+Legacy-is-private: 
+
+----
+
+Legacy-categories: 

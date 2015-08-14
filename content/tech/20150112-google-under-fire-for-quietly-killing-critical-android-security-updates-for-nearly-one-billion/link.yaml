@@ -1,0 +1,81 @@
+Title: Google Under Fire For Quietly Killing Critical Android Security Updates For Nearly One Billion
+
+----
+
+Date: 2015-01-12
+
+----
+
+Meta-title: 
+
+----
+
+Is-featured: 
+
+----
+Author: melmyfinger, meltajon
+----
+
+Body: [Thomas Fox-Brewster, Forbes](http://www.forbes.com/sites/thomasbrewster/2015/01/12/google-webview-updates-quietly-killed-for-most-androids/):
+
+> Android smartphone owners who aren’t running the latest version of their operating system might get some nasty surprises from malicious hackers in 2015. That’s because one of the core components of their phones won’t be getting any security updates from Google, the owner of the Android operating system. Without openly warning any of the 939 million affected, Google has decided to stop pushing out security updates for the WebView tool within Android to those on Android 4.3, better known as Jelly Bean, or below, according to appalled security researchers. That means two-thirds of users won’t receive cover from Google, the researchers noted.
+
+> The WebView piece of the messy Android jigsaw allows apps to display web pages without having to open another application. Many apps and ad networks use the component, which the Google Android team even advocates in its developer documentation on rendering web pages. It’s also the favored vector for attack for nearly any remote code execution vulnerability in the mobile OS, according to Rapid7 engineering manager Tod Beardsley. “WebView, for many, many attackers, is Android, just as Internet Explorer [Microsoft's browser] is usually the best vector for attackers who want to compromise Windows client desktops,” he told Forbes.
+
+> Software weaknesses have repeatedly been uncovered in Android and WebView, making the lack of updates even more dangerous. Rapid7 has added numerous exploits to its penetration testing kit Metasploit. The most recent version comes with 11 different WebView exploits bundled in, meaning both ethical and criminal hackers could easily exploit the tool and subsequently Android operating systems.
+
+This is the part that really sucks about having such an open platform. Too many hardware choices = too much hardware diversity = too many devices running different versions of the software = too much fragmentation to maintain a secure and consistent experience.
+
+Open doesn't always win.
+
+----
+
+Excerpt: 
+
+----
+
+Meta-description: 
+
+----
+
+Source-name: Forbes
+
+----
+
+Source-url: http://www.forbes.com/sites/thomasbrewster/2015/01/12/google-webview-updates-quietly-killed-for-most-androids/
+
+----
+
+Via-name: 
+
+----
+
+Via-url: 
+
+----
+
+Categories: mobile-trends, smartphones
+
+----
+
+Mentions: 
+
+----
+
+Hashtags: android
+
+----
+
+Meta-keywords: 
+
+----
+
+Featured-name: 
+
+----
+
+Featured-title: 
+
+----
+
+Featured-source-name: 
