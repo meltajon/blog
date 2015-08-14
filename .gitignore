@@ -1,6 +1,10 @@
 .DS_Store
 .gitmodules
 assets/A06/css/scss_cache
-site/accounts
 assets/avatars
+content/drafts
+content/food
+content/friends
+content/personal
+site/accounts
 thumbs/*
